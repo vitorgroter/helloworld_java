@@ -6,7 +6,7 @@ public class HelloWorld
         print(System.out);
     }
 
-    public staic void print(PrintStream out) {
+    public static void print(PrintStream out) {
         out.println("Hello, World!");
     }
 }
